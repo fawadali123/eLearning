@@ -1,0 +1,10 @@
+E:\MVC\webapi\eLearning\Learning.Data\bin\Debug\Learning.Data.dll.config
+E:\MVC\webapi\eLearning\Learning.Data\bin\Debug\Learning.Data.dll
+E:\MVC\webapi\eLearning\Learning.Data\bin\Debug\Learning.Data.pdb
+E:\MVC\webapi\eLearning\Learning.Data\bin\Debug\EntityFramework.dll
+E:\MVC\webapi\eLearning\Learning.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\MVC\webapi\eLearning\Learning.Data\bin\Debug\EntityFramework.xml
+E:\MVC\webapi\eLearning\Learning.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\MVC\webapi\eLearning\Learning.Data\obj\Debug\Learning.Data.dll
+E:\MVC\webapi\eLearning\Learning.Data\obj\Debug\Learning.Data.pdb
+E:\MVC\webapi\eLearning\Learning.Data\obj\Debug\Learning.Data.csprojResolveAssemblyReference.cache
